@@ -1,0 +1,172 @@
+body{
+background-color:#ffffff;
+#background-color:gray;
+#color:#000000
+font-family: Georgia, serif;
+}
+
+
+p{
+line-height: 1.25;
+margin-bottom: 1rem;
+font-size: .975rem
+}
+
+
+a{
+  #color:#ffffff;
+
+  color:blue;
+  }
+  
+.nav{
+	   padding-right: 30px;
+ }
+ 
+ .title{
+	 color: red;
+	 text-decoration: none;
+ }
+
+a:hover{
+	background-color: blue;
+	color: white;
+}
+
+b{
+	font-weight: 600;
+}
+
+h3{
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-weight:300;
+	color: red;
+	font-size: 48pt;
+	text-align:center;
+	margin:5px;
+	background:yellow;
+}
+h4{
+   	font-family: Georgia, Times New Roman, serif;
+	font-style: italic;
+	font-weight:300;
+	color: black;
+	font-size: 1.8em;
+	text-align:left;
+	margin:5px;
+}
+#wholepost{
+	width:80%;
+	#margin:inherit;
+	#padding:10px;
+	padding-left: 5px;
+	float:left;
+	padding-bottom: 1rem;
+}
+
+#main{
+  margin-left:20px;
+  #width: 50%;
+  border: 3px;
+  padding: 50px;
+  font-family: Georgia, serif;
+  text-align: center;
+  padding:10px;
+  font-size: 1rem;
+  margin:auto;
+  max-width:800px;
+  background-color:white;
+}
+
+#mainleft{
+  margin-left:20px;
+
+  border: 3px;
+
+  font-family: Georgia, serif;
+  text-align: left;
+  padding:10px;
+
+  margin:auto;
+  max-width:800px;
+  background-color:white;
+  
+  float:left;
+  border: 23px;
+  padding-left: 5px;
+  font-weight:200;
+  
+}
+
+#cardtext{
+  float:left;
+  margin: auto;
+
+  border: 23px;
+
+  padding-left: 5px;
+
+  max-width:800px;
+  text-align: left;
+
+  font-family: Georgia, serif;
+  font-weight:200;
+
+}  
+#cardimage{
+	  padding: 5px;
+	  float:left;
+	  #width:40%;
+	  max-width: 600px;
+	  background-color:white;
+}
+
+#cardimg{
+	display: block;
+	float:left;
+	width:100%;
+}
+
+#mapimg{
+	width:100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+#map{
+	#float:left;
+	margin-left: auto;
+    margin-right: auto;
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:20px;
+	padding-bottom:20px;
+	max-width: 800px;
+}
+
+body{
+	#background-color:gray;
+}
+
+#question{
+        padding-top: 150px;
+
+}
+
+
+
+#nav{
+	    float: left;
+		width: 100%;
+        font-size:14pt;
+		font-weight:200;
+		text-align: left;
+        font-family: Helvetica, Arial, sans-serif;
+}
+
+.subtitle{
+	font-size: 0.9em;
+}
