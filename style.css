@@ -12,7 +12,7 @@ p {
 
 ul {
   line-height: 1.25;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-size: 1.2rem;
 }
 a {
@@ -80,14 +80,14 @@ h4 {
 #mainleft {
   margin: auto;
   font-family: serif, Georgia, "Times New Roman", Times;
-  
+
   max-width: 900px;
   background-color: white;
   font-weight: 200;
 }
 
 #cardtext {
-	line-height: 1.25;
+  line-height: 1.25;
   margin-bottom: 1rem;
   font-size: 1.2rem;
   text-align: justify;
@@ -100,7 +100,6 @@ h4 {
 
   /* padding-left: 5px; */
 
-
   /* text-align: center; */
 
   font-family: serif, Georgia, "Times New Roman", Times;
@@ -111,14 +110,14 @@ h4 {
   float: left;
 
   max-width: 600px;
-  background-color: white; */
-}
+  background-color: white; 
+ } */
 
 #cardimg {
-	width: 100%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #mapimg {
