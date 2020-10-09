@@ -10,6 +10,10 @@ p {
   text-align: justify;
 }
 
+.showBanner {
+  width: 50%;
+}
+
 ul {
   line-height: 1.25;
   margin-bottom: 2rem;
